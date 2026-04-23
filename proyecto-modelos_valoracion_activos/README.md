@@ -60,14 +60,6 @@ Selección del mejor activo con base en:
 
 ---
 
-##  Cómo ejecutar el proyecto
-
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/kr-ln/proyecto-modelos_valoracion_activos.git
-
----
-
 ## Personalización
 
 El usuario puede adaptar el modelo fácilmente modificando:
@@ -86,3 +78,9 @@ perfiles_brutos = {
     "Moderado": {'Retorno': 4, 'Volatilidad': 3, 'Sharpe': 6},
     "Agresivo": {'Retorno': 6, 'Volatilidad': 2, 'Sharpe': 4}
 }
+
+##  Cómo ejecutar el proyecto
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/kr-ln/proyecto-modelos_valoracion_activos.git
